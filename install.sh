@@ -1,2 +1,2 @@
-echo "CURRENT PATH = $(pwd)"
-mkdir /tmp/testdot
+cp .bash_aliases ~
+cp .bashrc ~
