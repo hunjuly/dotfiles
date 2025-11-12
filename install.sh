@@ -1,0 +1,1 @@
+echo "CURRENT PATH = $(PWD)"
