@@ -1,2 +1,2 @@
-echo "CURRENT PATH = $(PWD)"
+echo "CURRENT PATH = $(pwd)"
 mkdir /tmp/testdot
